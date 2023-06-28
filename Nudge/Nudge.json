@@ -22,7 +22,6 @@
                     "aboutUpdateURL": "https://support.apple.com/en-us/HT211896#macos1121"
                 }
             ],
-            "actionButtonPath": "munki://updates",
             "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
             "requiredInstallationDate": "2023-08-28T00:00:00Z",
             "requiredMinimumOSVersion": "13.4.1",
