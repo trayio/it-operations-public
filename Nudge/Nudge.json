@@ -52,14 +52,13 @@
         "randomDelay": false
     },
     "userInterface": {
-        "actionButtonPath": "munki://updates",
         "fallbackLanguage": "en",
         "forceFallbackLanguage": false,
         "forceScreenShotIcon": false,
         "iconDarkPath": "/usr/local/Tray.io/logo_blue.png",
         "iconLightPath": "/usr/local/Tray.io/logo_blue.png",
         "screenShotDarkPath": "/usr/local/Tray.io/logo_blue.png",
-        "screenShotLightPath": "/usr/local/Tray.io/logo_blue.png",
+        "screenShotLightPath": "",
         "showDeferralCount": true,
         "simpleMode": false,
         "singleQuitButton": false,
@@ -79,7 +78,7 @@
                 "oneHourDeferralButtonText": "One Hour",
                 "primaryQuitButtonText": "Later",
                 "secondaryQuitButtonText": "I understand",
-                "subHeader": "Your friendly Neighbourhood IT Squad"
+                "subHeader": "IT@Tray"
             }
         ]
     }
